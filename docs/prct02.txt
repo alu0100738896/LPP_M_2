@@ -6,3 +6,11 @@ En compilación, se traduce el código fuente y se genera un nuevo archivo ejecu
 
 En intrepretación, a la vez que se traduce se va ejecutando el programa.
 
+¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+
+En Bash, se indica la Shell a utilizar, mientras que en Ruby no. Además, el comando para mostar una cadena de texto en ambos lenguajes es diferentes.
+
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+
+La primera línea indica al sistema que intérprete procesará el fichero.
+
